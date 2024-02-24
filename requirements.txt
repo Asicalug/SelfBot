@@ -1,0 +1,6 @@
+discord.py-self
+termcolor
+PyDictionary
+python-dotenv
+requests
+pyowm
