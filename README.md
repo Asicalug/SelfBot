@@ -1,2 +1,0 @@
-# SelfBot
-My SelfBot
